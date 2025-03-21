@@ -1,0 +1,17 @@
+name: code-demo-2025
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.13
+  - matplotlib
+  - pandas
+  - numpy
+  - scikit-learn
+  - scipy
+  - seaborn
+  - jupyter
+  - tqdm
+  - black
+  - flake8
+  - pytables
+  - pip
